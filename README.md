@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Michael Vega
-- 👀 I’m interested in Data Science, AI, and Python 🐍
+- 👀 I’m interested in Data Science, AI, Quantum Computing, and Python 🐍
 - 🌱 I’m currently learning SQL
 - 📫 How to reach me: https://www.linkedin.com/in/michael-vega-97745521a/
 
