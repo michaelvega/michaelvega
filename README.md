@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Michael Vega
 - 👀 I’m interested in Data Science, AI, Quantum Computing, and Python 🐍
-- 🌱 I’m currently learning Selenium
+- 🌱 I’m currently learning C++17
 - 📫 How to reach me: https://www.linkedin.com/in/michael-vega-97745521a/
+- 💼 Founder and Co-Owner of Levestios LLC
 
 <!---
 michaelvega/michaelvega is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
