@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Michael Vega
 - 👀 I’m interested in Data Science, AI, Quantum Computing, and Python 🐍
-- 🌱 I’m currently learning Dart/Flutter
+- 🌱 I’m currently learning Qiskit
 - 📫 How to reach me: https://www.linkedin.com/in/michael-vega-97745521a/
 - 💼 Founder and Co-Owner of Levestios LLC
 
