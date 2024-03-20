@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Michael Vega
-- 👀 I’m interested in Data Science, AI, Quantum Computing, and Python 🐍
+- 👀 I’m interested in Social Entrepreneurship Ventures, Corporate Structuring, and Project Management
 - 🌱 I’m currently learning Tensorflow
 - 📫 How to reach me: https://www.linkedin.com/in/michael-vega-97745521a/
 - ✋ Founder and Developer of [LearnASL.org](https://learnasl.org/)
