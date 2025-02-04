@@ -1,11 +1,11 @@
 # 👋 Hello, I'm Michael Vega
 
-Welcome to my GitHub! I'm passionate about **Social Entrepreneurship**, **Educational Technology**, and **Project Management**, with a focus on creating impactful, accessible learning experiences.
+Welcome to my GitHub! I'm passionate about **Social Entrepreneurship** and **Product Management**, with a focus on creating impactful, accessible experiences.
 
 ---
 
 ### 🌟 About Me
-- 📍 Social Entrepreneur with a deep interest in community-driven ventures
+- 📍 Founder with a deep interest in community-driven ventures
 - 🎓 Currently exploring the **LEAN Startup Model** to drive innovation in education
 - ✨ Founder and Developer of [LearnASL.org](https://learnasl.org/), a platform dedicated to expanding access to American Sign Language resources with my own computer vision AI feedback model
 - 🌍 Creator of [WetHeatWarnings](https://michaelvega.shinyapps.io/WetHeatWarnings/), a tool that tracks **wet bulb temperature** for 8,000 cities worldwide, addressing an often-overlooked but critical climate metric by web scraping weather databases.
