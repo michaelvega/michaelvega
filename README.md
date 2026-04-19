@@ -1,22 +1,19 @@
 # 👋 Hello, I'm Michael Vega
 
-Welcome to my GitHub! I'm passionate about **Social Entrepreneurship** and **Product Management**, with a focus on creating impactful, accessible experiences.
+Welcome to my GitHub! I'm passionate about **Entrepreneurship** and **LLM Research**, with a focus on creating impactful, accessible experiences.
 
 ---
 
 ### 🌟 About Me
-- 📍 Founder with a deep interest in community-driven ventures
-- 🎓 Currently exploring the **LEAN Startup Model** to drive innovation in education
+- ☀️ Interning at the Core AI Team of Pinterest this Summer 
 - ✨ Founder and Developer of [LearnASL.org](https://learnasl.org/), a platform dedicated to expanding access to American Sign Language resources with my own computer vision AI feedback model
-- 🌍 Creator of [WetHeatWarnings](https://michaelvega.shinyapps.io/WetHeatWarnings/), a tool that tracks **wet bulb temperature** for 8,000 cities worldwide, addressing an often-overlooked but critical climate metric by web scraping weather databases.
+- 🌍 Creator of [Procept Technologies](https://procept.tech), which deploys specialized, autonomous agents that continuously monitor your ERP, WMS, and unstructured communications to proactively identify and resolve your most expensive supply chain bottlenecks.
 
 
 ---
 
 ### 🌐 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/michael-vega-97745521a/) – Let's connect!
-- 📝 Schoolhouse.world [Portfolio](https://schoolhouse.world/transcript/31178f96-2eec-42af-98eb-8e7419df869e)
-
 ---
 
 Feel free to explore my projects and reach out if you're interested in collaboration!
