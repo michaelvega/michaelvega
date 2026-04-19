@@ -6,8 +6,8 @@ Welcome to my GitHub! I'm passionate about **Entrepreneurship** and **LLM Resear
 
 ### 🌟 About Me
 - ☀️ Interning at the Core AI Team of Pinterest this Summer 
-- ✨ Founder and Developer of [LearnASL.org](https://learnasl.org/), a platform dedicated to expanding access to American Sign Language resources with my own computer vision AI feedback model
-- 🌍 Creator of [Procept Technologies](https://procept.tech), which deploys specialized, autonomous agents that continuously monitor your ERP, WMS, and unstructured communications to proactively identify and resolve your most expensive supply chain bottlenecks.
+- 🌍 Creator of [LearnASL.org](https://learnasl.org/), a platform dedicated to expanding access to American Sign Language resources with my own computer vision AI feedback model
+- ✨ Founder of [Procept Technologies](https://procept.tech), which deploys specialized, autonomous agents that continuously monitor your ERP, WMS, and unstructured communications to proactively identify and resolve your most expensive supply chain bottlenecks.
 
 
 ---
